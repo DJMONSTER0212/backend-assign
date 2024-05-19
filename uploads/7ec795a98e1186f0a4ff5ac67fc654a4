@@ -1,0 +1,4 @@
+name,email,city,age
+Alice Smith,alice.smith@example.com,Los Angeles,28
+Bob Johnson,bob.johnson@example.com,Chicago,35
+John Doe,john.doe@example.com,San Francisco,40  
